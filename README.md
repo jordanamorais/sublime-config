@@ -1,9 +1,9 @@
 # Sublime Config
-My Sublime Text configuration and plugins :green_heart:
+My Sublime Text configuration and plugins :green_heart:.
 
 ![][https://github.com/jordanamorais/sublime-config/blob/master/img/sublime-config.JPG]
 
-## Themes ##
+## Theme ##
 
 * [Themr](https://packagecontrol.io/packages/Themr) - To manage and select my installed themes.
 * [Material-Theme](https://packagecontrol.io/packages/Material%20Theme) - My current favorite theme
@@ -30,7 +30,7 @@ My Sublime Text configuration and plugins :green_heart:
 ## Code Style ##
 
 ### Soft Tabs ###
-I started to use Soft Tabs (tabs with two spaces). Add this to your Sublime User Preferences:
+I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question about this] (http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs). If you want to, add this to your Sublime User Preferences:
 
 ``` 
 {
