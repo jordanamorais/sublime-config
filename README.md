@@ -6,14 +6,14 @@ My Sublime Text configuration and plugins :green_heart:.
 ## Theme ##
 
 * [Themr](https://packagecontrol.io/packages/Themr) - To manage and select my installed themes.
-* [Material-Theme](https://packagecontrol.io/packages/Material%20Theme) - My current favorite theme
-* [Material Theme - App Bar] (https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :two_hearts:
+* [Material-Theme](https://packagecontrol.io/packages/Material%20Theme) - My current favorite theme.
+* [Material Theme - App Bar] (https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :two_hearts:.
 
 ## Plugins ##
 
 #### Files ####
 * [AdvancedNewFile] (https://packagecontrol.io/packages/AdvancedNewFile) - Advanced File Creation.
-* [SideBarEnhancments] (https://packagecontrol.io/packages/SideBarEnhancements) - Provides enhancements to the operations on Sidebar of Files and Folders
+* [SideBarEnhancments] (https://packagecontrol.io/packages/SideBarEnhancements) - Provides enhancements to the operations on Sidebar of Files and Folders.
 * [Compare Side-by-side] (https://packagecontrol.io/packages/Compare%20Side-By-Side) - A simple side-by-side comparison tool.
 
 #### Autocomplete ####
