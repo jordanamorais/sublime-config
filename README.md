@@ -1,7 +1,6 @@
 # Sublime Config
 My Sublime Text configuration and plugins :green_heart:
-![][..img/sublime-config.JPG]
-[https://github.com/jordanamorais/sublime-config/blob/master/img/sublime-config.JPG]:
+![][https://github.com/jordanamorais/sublime-config/blob/master/img/sublime-config.JPG]
 
 ## Themes ##
 
@@ -20,3 +19,4 @@ I started to use Soft Tabs (tabs with two spaces). Add this to your Sublime User
 
 
 
+[https://github.com/jordanamorais/sublime-config/blob/master/img/sublime-config.JPG]: https://github.com/jordanamorais/sublime-config/blob/master/img/sublime-config.JPG
