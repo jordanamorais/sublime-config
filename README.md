@@ -1,7 +1,7 @@
 # Sublime Config
 My Sublime Text configuration and plugins :green_heart:
 ![][..img/sublime-config.JPG]
-[img/sublime-config.JPG]:
+[https://github.com/jordanamorais/sublime-config/blob/master/img/sublime-config.JPG]:
 
 ## Themes ##
 
