@@ -65,7 +65,7 @@ Indentation:
     width: 1
 ```
 
-*:pushpin: (TO DO: Remember to "do the right way", creating the `scss-lint.yml` in the current working directory later)*
+*:pushpin: (TO DO: Remember to "do the right way", creating the `scss-lint.yml` into the current working directory later)*
 
 ## Key Bindings ##
 
