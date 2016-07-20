@@ -56,7 +56,7 @@ I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See thi
 
 ## Key Bindings ##
 
-My User Key Bindings Preferences also with [eclipse] (https://eclipse.org/) keybindings.
+My `Key Bindings - User Preferences` also with [eclipse] (https://eclipse.org/) keybindings.
 
 ```
 [
