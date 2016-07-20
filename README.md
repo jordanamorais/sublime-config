@@ -13,6 +13,7 @@ My Sublime Text configuration and plugins :green_heart:
 I started to use Soft Tabs (tabs with two spaces). Add this to your Sublime User Preferences:
 
 ``` 
+{
     "tab_size": 2,
     "translate_tabs_to_spaces": true
 }
