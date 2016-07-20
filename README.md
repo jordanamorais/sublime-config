@@ -11,26 +11,26 @@ My Sublime Text configuration and plugins :green_heart:.
 
 ## Plugins ##
 
-* [AdvancedNewFile] (https://packagecontrol.io/packages/AdvancedNewFile) - Advanced File Creation
+* [AdvancedNewFile] (https://packagecontrol.io/packages/AdvancedNewFile) - Advanced File Creation.
 * [All Autocomplete] (https://packagecontrol.io/packages/All%20Autocomplete) - Extends the default autocomplete to find matches in all open files.
 * [BracketHighLighter] (https://packagecontrol.io/packages/BracketHighlighter)
-* :stars: [Color HighLighter] (https://packagecontrol.io/packages/Color%20Highlighter) - Previews color values by underlaying the selected hex codes in different styles
+* :stars: [Color HighLighter] (https://packagecontrol.io/packages/Color%20Highlighter) - Previews color values by underlaying the selected hex codes in different styles.
 * :stars: [Emmet] (https://packagecontrol.io/packages/Emmet) - Greatly improves HTML & CSS workflow.
-* :stars: [Git] (https://packagecontrol.io/packages/Git) - Git integration
+* :stars: [Git] (https://packagecontrol.io/packages/Git) - Provides Git integration.
 * [Git Gutter] (https://packagecontrol.io/packages/GitGutter) - Show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
 * [GitHub Tools] (https://packagecontrol.io/packages/Github%20Tools)
-* [Jade/Pug] (https://packagecontrol.io/packages/Jade) - Jade template engine
+* [Jade/Pug] (https://packagecontrol.io/packages/Jade) - Jade/Pug template engine.
 * :stars: [MarkdownEditing] (https://packagecontrol.io/packages/MarkdownEditing) - Provides a decent Markdown color scheme (light and dark) with more robust syntax highlighting and useful Markdown editing features.
 * :stars: [Markdown Preview] (https://packagecontrol.io/packages/Markdown%20Preview) - Preview your Markdown files quickly in your web browser.
 * [Sass] (https://packagecontrol.io/packages/Sass)
 * [SideBarEnhancments] (https://packagecontrol.io/packages/SideBarEnhancements) - Provides enhancements to the operations on Sidebar of Files and Folders
-* [SublimeLinter] (https://packagecontrol.io/packages/SublimeLinter) - Provides code linting.
-* :stars: [SublimeLinter-contrib-scss-lint] (https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) - Provides an interface to the [scss-lint] (https://github.com/brigade/scss-lint). It will be used with files that have the “SCSS” syntax. Dependence: SublimeLinter.
+* [SublimeLinter] (https://packagecontrol.io/packages/SublimeLinter) - Code linting.
+* :stars: [SublimeLinter-contrib-scss-lint] (https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) - Provides an interface to the [scss-lint] (https://github.com/brigade/scss-lint). It will be used with files that have the “SCSS” syntax.
 
 ## Code Style ##
 
 ### Soft Tabs ###
-I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question about this] (http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs). If you want to, add this to your Sublime User Preferences:
+I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question] (http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs)). If you want to, add this to your Sublime User Preferences:
 
 ``` 
 {
