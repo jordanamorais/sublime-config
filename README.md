@@ -11,7 +11,7 @@ My Sublime Text configuration and plugins :green_heart:.
 
 ## Plugins ##
 
-##### Files #####
+#### Files ####
 * [AdvancedNewFile] (https://packagecontrol.io/packages/AdvancedNewFile) - Advanced File Creation.
 * [SideBarEnhancments] (https://packagecontrol.io/packages/SideBarEnhancements) - Provides enhancements to the operations on Sidebar of Files and Folders
 * [Compare Side-by-side] (https://packagecontrol.io/packages/Compare%20Side-By-Side) - A simple side-by-side comparison tool.
@@ -23,7 +23,7 @@ My Sublime Text configuration and plugins :green_heart:.
 * [BracketHighLighter] (https://packagecontrol.io/packages/BracketHighlighter)
 * :stars: [Color HighLighter] (https://packagecontrol.io/packages/Color%20Highlighter) - Previews color values by underlaying the selected hex codes in different styles.
 
-##### CSS/SASS and Linters #####
+#### CSS/SASS and linters ####
 * :stars: [Emmet] (https://packagecontrol.io/packages/Emmet) - Greatly improves HTML & CSS workflow.
 * [Sass] (https://packagecontrol.io/packages/Sass)
 * [SublimeLinter] (https://packagecontrol.io/packages/SublimeLinter) - Code linting.
