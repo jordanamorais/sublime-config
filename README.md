@@ -21,20 +21,20 @@ My Sublime Text configuration and plugins :green_heart:.
 
 #### Highlighters ####
 * [BracketHighLighter] (https://packagecontrol.io/packages/BracketHighlighter)
-* :stars2: [Color HighLighter] (https://packagecontrol.io/packages/Color%20Highlighter) - Previews color values by underlaying the selected hex codes in different styles.
+* :star2: [Color HighLighter] (https://packagecontrol.io/packages/Color%20Highlighter) - Previews color values by underlaying the selected hex codes in different styles.
 
 #### CSS/SASS and linters ####
-* :stars2: [Emmet] (https://packagecontrol.io/packages/Emmet) - Greatly improves HTML & CSS workflow.
-* :stars2: [Sass] (https://packagecontrol.io/packages/Sass)
+* :star2: [Emmet] (https://packagecontrol.io/packages/Emmet) - Greatly improves HTML & CSS workflow.
+* :star2: [Sass] (https://packagecontrol.io/packages/Sass)
 * [SublimeLinter] (https://packagecontrol.io/packages/SublimeLinter) - Code linting.
-* :stars2: [SublimeLinter-contrib-scss-lint] (https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) - Provides an interface to the [scss-lint] (https://github.com/brigade/scss-lint). It will be used with files that have the “SCSS” syntax.
+* :star2: [SublimeLinter-contrib-scss-lint] (https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) - Provides an interface to the [scss-lint] (https://github.com/brigade/scss-lint). It will be used with files that have the “SCSS” syntax.
 
 #### Markdown ####
-* :stars2: [MarkdownEditing] (https://packagecontrol.io/packages/MarkdownEditing) - Provides a decent Markdown color scheme (light and dark) with more robust syntax highlighting and useful Markdown editing features.
-* :stars2: [Markdown Preview] (https://packagecontrol.io/packages/Markdown%20Preview) - Preview your Markdown files quickly in your web browser.
+* :star2: [MarkdownEditing] (https://packagecontrol.io/packages/MarkdownEditing) - Provides a decent Markdown color scheme (light and dark) with more robust syntax highlighting and useful Markdown editing features.
+* :star2: [Markdown Preview] (https://packagecontrol.io/packages/Markdown%20Preview) - Preview your Markdown files quickly in your web browser.
 
 #### Git/Github ####
-* :stars2: [Git] (https://packagecontrol.io/packages/Git) - Provides Git integration.
+* :star2: [Git] (https://packagecontrol.io/packages/Git) - Provides Git integration.
 * [Git Gutter] (https://packagecontrol.io/packages/GitGutter) - Show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
 * [GitHub Tools] (https://packagecontrol.io/packages/Github%20Tools)
 
