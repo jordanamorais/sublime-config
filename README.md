@@ -45,7 +45,7 @@ My Sublime Text configuration and plugins :green_heart:.
 ## Code Style ##
 
 #### Soft Tabs ####
-I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question] (http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs)). If you want to, add this to your Sublime User Preferences:
+I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question] (http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs)). If you want to, add this to your `Sublime Settings - User` Preferences:
 
 ``` 
 {
