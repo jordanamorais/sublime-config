@@ -58,14 +58,14 @@ I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See thi
 
 In my `default.yml` scss-lint config file, i changed the `Indentation character` to `tab` instead of `spaces`:
 
-*:pushpin: (TO DO: Remember to "do the right way", creating the `scss-lint.yml` in the current working directory later)*
-
 ```
 Indentation:
     ...
     character: tab # or 'spaces'
     width: 1
 ```
+
+*:pushpin: (TO DO: Remember to "do the right way", creating the `scss-lint.yml` in the current working directory later)*
 
 ## Key Bindings ##
 
