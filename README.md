@@ -1,2 +1,22 @@
-# sublime-config
-My Sublime Text configuration and plugins
+# Sublime Config
+My Sublime Text configuration and plugins :green_heart:
+![][..img/sublime-config.JPG]
+[img/sublime-config.JPG]:
+
+## Themes ##
+
+* [Themr](https://packagecontrol.io/packages/Themr) - To manage and select my installed themes.
+* [Material-Theme](https://packagecontrol.io/packages/Material%20Theme) - My current favorite theme
+
+## Code Style - Soft Tabs ##
+
+I started to use Soft Tabs (tabs with two spaces). Add this to your Sublime User Preferences:
+
+``` 
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true
+}
+```
+
+
+
