@@ -51,7 +51,7 @@ If you like to change the App Bar color, just add one of this lines to your Subl
 * [GitHub Tools] (https://packagecontrol.io/packages/Github%20Tools)
 
 #### Template Engines ####
-* [Jade] (https://packagecontrol.io/packages/Jade) - Jade template engine. (*:pushpin: Jade has been renamed to Pug*)
+* [Jade] (https://packagecontrol.io/packages/Jade) - Jade template engine. (*Jade has been renamed to Pug*)
 * [Bootstrap 3 Jade Snippets] (https://packagecontrol.io/packages/Bootstrap%203%20Jade%20Snippets)
 
 ## Code Style ##
