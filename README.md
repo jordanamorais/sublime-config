@@ -9,6 +9,20 @@ My Sublime Text configuration and plugins :green_heart:.
 * [Material-Theme](https://packagecontrol.io/packages/Material%20Theme) - My current favorite theme.
 * [Material Theme - App Bar] (https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :two_hearts:.
 
+If you like to change the App Bar color, just add one of this lines to your Sublime `Settings - User` Preferences:
+
+``` 
+"material_theme_appbar_lime": true,
+"material_theme_appbar_orange": true,
+"material_theme_appbar_purple": true,
+"material_theme_appbar_red": true,
+"material_theme_appbar_yellow": true,
+"material_theme_appbar_indigo": true,
+"material_theme_appbar_pink": true,
+"material_theme_appbar_blue": true,
+"material_theme_appbar_cyan": true
+```
+
 ## Plugins ##
 
 #### Files ####
@@ -35,11 +49,10 @@ My Sublime Text configuration and plugins :green_heart:.
 
 #### Git/Github ####
 * :star2: [Git] (https://packagecontrol.io/packages/Git) - Provides Git integration.
-* [Git Gutter] (https://packagecontrol.io/packages/GitGutter) - Show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
 * [GitHub Tools] (https://packagecontrol.io/packages/Github%20Tools)
 
 #### Template Engines ####
-* [Jade/Pug] (https://packagecontrol.io/packages/Jade) - Jade/Pug template engine.
+* [Jade] (https://packagecontrol.io/packages/Jade) - Jade template engine. (*Jade has been renamed to Pug*)
 * [Bootstrap 3 Jade Snippets] (https://packagecontrol.io/packages/Bootstrap%203%20Jade%20Snippets)
 
 ## Code Style ##
