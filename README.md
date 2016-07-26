@@ -58,7 +58,7 @@ If you like to change the App Bar color, just add one of this lines to your Subl
 ## Code Style ##
 
 #### Soft Tabs ####
-I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question] (http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs)). If you want to, add this to your `Sublime Settings - User` Preferences:
+I've started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question] (http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs)). If you want to, add this to your `Sublime Settings - User` Preferences:
 
 ``` 
 {
@@ -69,7 +69,7 @@ I started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See thi
 
 #### SCSS Lint indentation config ####
 
-In my `default.yml` scss-lint config file, i changed the `Indentation character` to `tab` instead of `spaces`:
+In my `default.yml` scss-lint config file, i changed the `Indentation character` spaces to `tab`:
 
 ```
 Indentation:
@@ -82,7 +82,7 @@ Indentation:
 
 ## Key Bindings ##
 
-My `Key Bindings - User` Preferences also with [eclipse] (https://eclipse.org/) keybindings.
+My `Key Bindings - User` Preferences, also with [eclipse] (https://eclipse.org/) keybindings.
 
 ```
 [
