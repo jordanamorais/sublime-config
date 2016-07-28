@@ -1,5 +1,5 @@
 # Sublime Config
-My Sublime Text configuration and plugins :green_heart:.
+My Sublime Text configuration and plugins :purple_heart:.
 
 ![][https://github.com/jordanamorais/sublime-config/blob/master/img/sublime-config.JPG]
 
@@ -7,7 +7,7 @@ My Sublime Text configuration and plugins :green_heart:.
 
 * [Themr](https://packagecontrol.io/packages/Themr) - To manage and select my installed themes.
 * [Material-Theme](https://packagecontrol.io/packages/Material%20Theme) - My current favorite theme.
-* [Material Theme - App Bar] (https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :two_hearts:.
+* [Material Theme - App Bar] (https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :ok_hand:.
 
 If you like to change the App Bar color, just add one of this lines to your Sublime `Settings - User` Preferences:
 
@@ -66,19 +66,6 @@ I've started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See 
     "translate_tabs_to_spaces": true
 }
 ```
-
-#### SCSS Lint indentation config ####
-
-In my `default.yml` scss-lint config file, i changed the `Indentation character` spaces to `tab`:
-
-```
-Indentation:
-    ...
-    character: tab # or 'spaces'
-    width: 1
-```
-
-*:pushpin: (TO DO: Remember to "do the right way", creating the `scss-lint.yml` into the current working directory later)*
 
 ## Key Bindings ##
 
