@@ -7,7 +7,7 @@ My Sublime Text configuration and plugins :purple_heart:.
 
 * [Themr](https://packagecontrol.io/packages/Themr) - To manage and select my installed themes.
 * [Material-Theme](https://packagecontrol.io/packages/Material%20Theme) - My current favorite theme.
-* [Material Theme - App Bar] (https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :ok_hand:.
+* [Material Theme - App Bar] (https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :art:.
 
 If you like to change the App Bar color, just add one of this lines to your Sublime `Settings - User` Preferences:
 
