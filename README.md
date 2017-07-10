@@ -7,11 +7,11 @@ My Sublime Text configuration and plugins :purple_heart:.
 
 * [Themr](https://packagecontrol.io/packages/Themr) - To manage and select my installed themes.
 * [Material-Theme](https://packagecontrol.io/packages/Material%20Theme) - My current favorite theme.
-* [Material Theme - App Bar] (https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :art:.
+* [Material Theme - App Bar](https://packagecontrol.io/packages/Material%20Theme%20-%20Appbar) - Tinted appbar to your Material Theme installation :art:.
 
 If you like to change the App Bar color, just add one of this lines to your Sublime `Settings - User` Preferences:
 
-``` 
+``` javascript
 "material_theme_appbar_lime": true,
 "material_theme_appbar_orange": true,
 "material_theme_appbar_purple": true,
@@ -26,41 +26,41 @@ If you like to change the App Bar color, just add one of this lines to your Subl
 ## Plugins ##
 
 #### Files ####
-* [AdvancedNewFile] (https://packagecontrol.io/packages/AdvancedNewFile) - Advanced File Creation.
-* [SideBarEnhancments] (https://packagecontrol.io/packages/SideBarEnhancements) - Provides enhancements to the operations on Sidebar of Files and Folders.
-* [Compare Side-by-side] (https://packagecontrol.io/packages/Compare%20Side-By-Side) - A simple side-by-side comparison tool.
+* [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile) - Advanced File Creation.
+* [SideBarEnhancments](https://packagecontrol.io/packages/SideBarEnhancements) - Provides enhancements to the operations on Sidebar of Files and Folders.
+* [Compare Side-by-side](https://packagecontrol.io/packages/Compare%20Side-By-Side) - A simple side-by-side comparison tool.
 
 #### Autocomplete ####
-* [All Autocomplete] (https://packagecontrol.io/packages/All%20Autocomplete) - Extends the default autocomplete to find matches in all open files.
+* [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete) - Extends the default autocomplete to find matches in all open files.
 
 #### Highlighters ####
-* [BracketHighLighter] (https://packagecontrol.io/packages/BracketHighlighter)
+* [BracketHighLighter](https://packagecontrol.io/packages/BracketHighlighter)
 * :star2: [Color HighLighter] (https://packagecontrol.io/packages/Color%20Highlighter) - Previews color values by underlaying the selected hex codes in different styles.
 
 #### CSS/SASS and linters ####
-* :star2: [Emmet] (https://packagecontrol.io/packages/Emmet) - Greatly improves HTML & CSS workflow.
-* :star2: [Sass] (https://packagecontrol.io/packages/Sass)
-* [SublimeLinter] (https://packagecontrol.io/packages/SublimeLinter) - Code linting.
-* :star2: [SublimeLinter-contrib-scss-lint] (https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) - Provides an interface to the [scss-lint] (https://github.com/brigade/scss-lint). It will be used with files that have the “SCSS” syntax.
+* :star2: [Emmet](https://packagecontrol.io/packages/Emmet) - Greatly improves HTML & CSS workflow.
+* :star2: [Sass](https://packagecontrol.io/packages/Sass)
+* [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) - Code linting.
+* :star2: [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint) - Provides an interface to the [scss-lint] (https://github.com/brigade/scss-lint). It will be used with files that have the “SCSS” syntax.
 
 #### Markdown ####
-* :star2: [MarkdownEditing] (https://packagecontrol.io/packages/MarkdownEditing) - Provides a decent Markdown color scheme (light and dark) with more robust syntax highlighting and useful Markdown editing features.
-* :star2: [Markdown Preview] (https://packagecontrol.io/packages/Markdown%20Preview) - Preview your Markdown files quickly in your web browser.
+* :star2: [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing) - Provides a decent Markdown color scheme (light and dark) with more robust syntax highlighting and useful Markdown editing features.
+* :star2: [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) - Preview your Markdown files quickly in your web browser.
 
 #### Git/Github ####
-* :star2: [Git] (https://packagecontrol.io/packages/Git) - Provides Git integration.
-* [GitHub Tools] (https://packagecontrol.io/packages/Github%20Tools)
+* :star2: [Git](https://packagecontrol.io/packages/Git) - Provides Git integration.
+* [GitHub Tools](https://packagecontrol.io/packages/Github%20Tools)
 
 #### Template Engines ####
-* [Jade] (https://packagecontrol.io/packages/Jade) - Jade template engine. (*Jade has been renamed to Pug*)
-* [Bootstrap 3 Jade Snippets] (https://packagecontrol.io/packages/Bootstrap%203%20Jade%20Snippets)
+* [Jade/Pug](https://packagecontrol.io/packages/Jade) - Jade template engine. (*Jade has been renamed to Pug*)
+* [Bootstrap 3 Pug Snippets](https://packagecontrol.io/packages/Bootstrap%203%20Jade%20Snippets)
 
 ## Code Style ##
 
 #### Soft Tabs ####
-I've started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question] (http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs)). If you want to, add this to your `Sublime Settings - User` Preferences:
+I've started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See this stackoverflow question](http://stackoverflow.com/questions/9446109/soft-tabs-or-hard-tabs)). If you want to, add this to your `Sublime Settings - User` Preferences:
 
-``` 
+``` javascript
 {
     "tab_size": 2,
     "translate_tabs_to_spaces": true
@@ -69,9 +69,9 @@ I've started to use Soft Tabs (tabs with two spaces) instead of Hard Tabs ([See 
 
 ## Key Bindings ##
 
-My `Key Bindings - User` Preferences, also with [eclipse] (https://eclipse.org/) keybindings.
+My `Key Bindings - User` Preferences, also with [eclipse](https://eclipse.org/) keybindings.
 
-```
+```javascript
 [
   { "keys": ["f12"], "command": "htmlprettify"},
   { "keys": ["f1"], "command": "fold" },
